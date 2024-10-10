@@ -1,5 +1,3 @@
-setwd("/home/adam/Dokumenty/DANE")
-
 library(dplyr)
 library(sf)
 library(tmap)
